@@ -67,7 +67,7 @@ draw.text((pos_x, 30), titulo, font=font_title, fill="black")
 y = 100
 espaciado = 55
 lineas = [
-    "CLIENTE: YORMAN",
+    "CLIENTE: HUGO ",
     f"FECHA: {datetime.now().strftime('%d/%m/%Y')}",
     "CONCEPTO: CERVEZAS, MICHELADAS",
 ]
